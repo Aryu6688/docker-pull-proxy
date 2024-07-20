@@ -1,2 +1,14 @@
 mysql:8.0.30 registry.cn-hangzhou.aliyuncs.com/aryu/mysql:8.0.30
+mongo:6.0.5 registry.cn-hangzhou.aliyuncs.com/aryu/mongo:6.0.5
+mongodb:6.0.5 registry.cn-hangzhou.aliyuncs.com/aryu/mongodb:6.0.5
+mysql:5.7.35 registry.cn-hangzhou.aliyuncs.com/aryu/mysql:5.7.35
 rabbitmq:3.12.0-management registry.cn-hangzhou.aliyuncs.com/aryu/rabbitmq:3.12.0-management
+redis:7.0.5 registry.cn-hangzhou.aliyuncs.com/aryu/redis:7.0.5
+nacos:2.1.2 registry.cn-hangzhou.aliyuncs.com/aryu/nacos:2.1.2
+elasticsearch:7.17.9 registry.cn-hangzhou.aliyuncs.com/aryu/elasticsearch:7.17.9
+kibana:7.17.9 registry.cn-hangzhou.aliyuncs.com/aryu/kibana:7.17.9
+grafana:9.4.3 registry.cn-hangzhou.aliyuncs.com/aryu/grafana:9.4.3
+zipkin:0.16.0 registry.cn-hangzhou.aliyuncs.com/aryu/zipkin:0.16.0
+nginx:1.23.3 registry.cn-hangzhou.aliyuncs.com/aryu/nginx:1.23.3
+minio:RELEASE.2022-09-08T01-05-02Z registry.cn-hangzhou.aliyuncs.com/aryu/minio:RELEASE.2022-09-08T01-05-02Z
+rocketmq:4.9.4 registry.cn-hangzhou.aliyuncs.com/aryu/rocketmq:4.9.4
