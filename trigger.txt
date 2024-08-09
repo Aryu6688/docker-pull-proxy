@@ -12,3 +12,4 @@ zipkin:0.16.0 registry.cn-hangzhou.aliyuncs.com/aryu/zipkin:0.16.0
 nginx:1.23.3 registry.cn-hangzhou.aliyuncs.com/aryu/nginx:1.23.3
 minio:RELEASE.2022-09-08T01-05-02Z registry.cn-hangzhou.aliyuncs.com/aryu/minio:RELEASE.2022-09-08T01-05-02Z
 rocketmq:4.9.4 registry.cn-hangzhou.aliyuncs.com/aryu/rocketmq:4.9.4
+node:20.10.0 registry.cn-hangzhou.aliyuncs.com/aryu/node:20.10.0
